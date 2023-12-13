@@ -1,0 +1,7 @@
+C:\Users\utku.ozen\source\repos\webServisOrnekUygulama\webServisOrnekUygulama\bin\webServisOrnekUygulama.dll.config
+C:\Users\utku.ozen\source\repos\webServisOrnekUygulama\webServisOrnekUygulama\bin\webServisOrnekUygulama.dll
+C:\Users\utku.ozen\source\repos\webServisOrnekUygulama\webServisOrnekUygulama\bin\webServisOrnekUygulama.pdb
+C:\Users\utku.ozen\source\repos\webServisOrnekUygulama\webServisOrnekUygulama\obj\Debug\webServisOrnekUygulama.csproj.AssemblyReference.cache
+C:\Users\utku.ozen\source\repos\webServisOrnekUygulama\webServisOrnekUygulama\obj\Debug\webServisOrnekUygulama.csproj.CoreCompileInputs.cache
+C:\Users\utku.ozen\source\repos\webServisOrnekUygulama\webServisOrnekUygulama\obj\Debug\webServisOrnekUygulama.dll
+C:\Users\utku.ozen\source\repos\webServisOrnekUygulama\webServisOrnekUygulama\obj\Debug\webServisOrnekUygulama.pdb

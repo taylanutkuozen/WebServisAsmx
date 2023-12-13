@@ -16,7 +16,7 @@ namespace webServisOrnekUygulama.Context
         outputType returnValueOutputType;
         public databaseLogicLayer()
         {
-            sqlConnection = new SqlConnection(@"Data Source=TYCOSMWL269\SQLEXPRESS;Initial Catalog=webServisKullanimi;user id=sa;password=tuo14789*");
+            sqlConnection = new SqlConnection(@"Data Source=;Initial Catalog=webServisKullanimi;user id=;password=");
         }
         public void baglantiIslemleri()
         {
